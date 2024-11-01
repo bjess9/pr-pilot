@@ -1,4 +1,4 @@
-# PR Pilot ✈️
+# ✈️ PR Pilot ✈️
 
 **PR Pilot** is a terminal-based tool that helps you stay on top of incoming pull requests across multiple GitHub repositories by listing them in order from newest to oldest. Perfect for keeping an eye on your team's PR activity, PR Pilot makes it easy to navigate and open pull requests from a single interface.
 
